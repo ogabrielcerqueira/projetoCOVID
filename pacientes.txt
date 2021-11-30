@@ -1,0 +1,1 @@
+nome,cpf,telefone,email,endereco-logradouro,endereco-numero,endereco-complemento,endereco-bairro,endereco-cidade,endereco-estado,endereco-pais,endereco-cep,dtNasc-dia,dtNasc-mes,dtNasc-ano,dtDiag-dia,dtDiag-mes,dtDiag-ano,temComorbidade,comorbidade
